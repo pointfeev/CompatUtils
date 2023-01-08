@@ -1,0 +1,7 @@
+C:\Users\zehme\Dropbox\git\CompatUtils\obj\Release\CompatUtils.csproj.AssemblyReference.cache
+C:\Users\zehme\Dropbox\git\CompatUtils\obj\Release\CompatUtils.csproj.CoreCompileInputs.cache
+C:\Users\zehme\Dropbox\git\CompatUtils\obj\Release\CompatUtils.dll
+C:\Users\zehme\Dropbox\git\CompatUtils\CompatUtils.xml
+C:\Users\zehme\Dropbox\git\CompatUtils\CompatUtils.dll
+C:\Users\zehme\Dropbox\git\CompatUtils\bin\Release\CompatUtils.xml
+C:\Users\zehme\Dropbox\git\CompatUtils\bin\Release\CompatUtils.dll
