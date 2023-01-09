@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package >
+<package>
   <metadata>
     <id>RimWorld.CompatUtils</id>
     <version>1.2.1</version>
@@ -7,7 +7,7 @@
     <authors>pointfeev</authors>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <license type="expression">MIT</license>
-	<readme>README.md</readme>
+    <readme>README.md</readme>
     <projectUrl>https://github.com/pointfeev/CompatUtils</projectUrl>
     <description>Provides many common compatibility methods, anywhere from checking if another mod is active to getting a consistent method from another mod.</description>
     <releaseNotes>Minor optimizations and method type fixes</releaseNotes>
@@ -15,6 +15,6 @@
     <tags>c# csharp rimworld mod compatibility utility utilities</tags>
   </metadata>
   <files>
-	<file src="README.md"/>
+    <file src="README.md"/>
   </files>
 </package>
