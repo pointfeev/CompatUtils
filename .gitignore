@@ -333,6 +333,5 @@ ASALocalRun/
 # Local History for Visual Studio
 .localhistory/
 
-# Custom
-*.dll
-packages/*
+# NuGet control
+nuget/*

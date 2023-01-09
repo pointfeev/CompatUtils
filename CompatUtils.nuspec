@@ -10,9 +10,13 @@
     <readme>README.md</readme>
     <projectUrl>https://github.com/pointfeev/CompatUtils</projectUrl>
     <description>$description$</description>
-    <releaseNotes>Minor optimizations and method type fixes</releaseNotes>
+    <releaseNotes>Minor optimizations and method parameter type fixes</releaseNotes>
     <copyright>2023, pointfeev (https://github.com/pointfeev)</copyright>
     <tags>c# csharp rimworld mod compatibility utility utilities</tags>
+    <dependencies>
+      <dependency id="Krafs.Rimworld.Ref" version="1.0.2551" include="none"/>
+      <dependency id="Lib.Harmony" version="2.2.2" include="none"/>
+    </dependencies>
   </metadata>
   <files>
     <file src="README.md"/>
