@@ -5,7 +5,9 @@ using System.Runtime.InteropServices;
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 [assembly: AssemblyTitle("CompatUtils")]
-[assembly: AssemblyDescription("Provides many common compatibility methods, anywhere from checking if another mod is active to getting a consistent method from another mod.")]
+[assembly:
+    AssemblyDescription(
+        "Provides many common compatibility methods, anywhere from checking if another mod is active to getting a consistent method from another mod.")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("pointfeev")]
 [assembly: AssemblyProduct("")]
